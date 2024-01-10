@@ -5,4 +5,4 @@
 Olá! Bem vindo  ao meu repositório dedicado ao jogo Among Us
 ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
 atualizacao 
-
+atualizado 2
