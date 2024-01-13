@@ -33,6 +33,9 @@ O mapa é localizado em um arranha-céu conhecido como os Quartel General MIRA (
 
 Novidades que o mapa trouxe: Nova sabotagem; Novas Tasks;Sensores de Movimento; Novo sistema de Descontaminação (incluindo novas portas)
 
+### Polus
+é o terceiro mapa do Among Us, ​​​sendo o segundo maior mapa. Ele é localizado em um planeta homônimo, aparentemente sendo uma base interplanetária.
+
 
 
 
