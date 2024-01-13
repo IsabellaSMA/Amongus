@@ -28,6 +28,9 @@ Marcus Bromander concebeu a ideia originalmente, baseando-se em Detetive, chamad
 Skeld, é o primeiro mapa de Among Us ambientado em uma nave espacial no espaço sideral. Ele é selecionado automaticamente ao abrir o jogo pela primeira vez.
 Locais: Cafeteria; Navegações, Comunicações, Administração, Elétrica, Segurança, Reator..
 
+### Mira HQ
+O mapa é localizado em um arranha-céu conhecido como os Quartel General MIRA (MIRA HQ). É uma torre gigante até as nuvens, com sensores de movimento em 3 corredores conhecidos como Corredores Sudeste, Sudoeste e Norte. Possui as mesmas tasks do The Skeld, porém tem as suas próprias.
+
 
 
 
