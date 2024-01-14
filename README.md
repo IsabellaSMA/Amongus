@@ -38,6 +38,7 @@ Novidades que o mapa trouxe: Nova sabotagem; Novas Tasks;Sensores de Movimento; 
 Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadores possam explorar fora da base, circulando pelo planeta. O mapa conta com 15 quartos, sem contar as Camâras de Descontaminação. Existem 12 aberturas no chão, que permitem que o Impostor se movimente para outras salas rapidamente.
 
 atualização 
+amongus amongus amongus amongus
 
 
 
