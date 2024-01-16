@@ -37,6 +37,7 @@ Novidades que o mapa trouxe: Nova sabotagem; Novas Tasks;Sensores de Movimento; 
 é o terceiro mapa do Among Us, ​​​sendo o segundo maior mapa. Ele é localizado em um planeta homônimo, aparentemente sendo uma base interplanetária.
 Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadores possam explorar fora da base, circulando pelo planeta. O mapa conta com 15 quartos, sem contar as Camâras de Descontaminação. Existem 12 aberturas no chão, que permitem que o Impostor se movimente para outras salas rapidamente.
 
-15/01 - oitavo commit
+### Airship
+is the fourth map in Among Us, based on the Toppat Clan's Airship in the Henry Stickmin game Infiltrating the Airship. The Airship is currently the largest map in Among Us,[1] includes more tasks, and has seventeen new locations. Added with the new map were multiple Henry Stickmin-related cosmetics and The Airship skin bundle.
 
 
