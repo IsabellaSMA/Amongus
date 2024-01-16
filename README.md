@@ -38,4 +38,4 @@ Novidades que o mapa trouxe: Nova sabotagem; Novas Tasks;Sensores de Movimento; 
 Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadores possam explorar fora da base, circulando pelo planeta. O mapa conta com 15 quartos, sem contar as Camâras de Descontaminação. Existem 12 aberturas no chão, que permitem que o Impostor se movimente para outras salas rapidamente.
 
 ### Airship
-é o quarto mapa de Among Us,baseado no Dirigível do Clã Toppat no jogo Infiltrating the Airship de Henry Stickmin .É atualmente o maior mapa de Among Us  inclui mais tarefas e tem dezessete novos locais . Adicionados ao novo mapa foram vários cosméticos relacionados a Henry Stickmin e o pacote de skins The Airship .
+é o quarto mapa de Among Us,baseado no mapa Clã Toppat no jogo Infiltrating the Airship de Henry Stickmin .É atualmente o maior mapa de Among Us e inclui mais tarefas e tem dezessete novos locais.
