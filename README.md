@@ -37,8 +37,10 @@ Novidades que o mapa trouxe: Nova sabotagem; Novas Tasks;Sensores de Movimento; 
 é o terceiro mapa do Among Us, ​​​sendo o segundo maior mapa. Ele é localizado em um planeta homônimo, aparentemente sendo uma base interplanetária.
 Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadores possam explorar fora da base, circulando pelo planeta. O mapa conta com 15 quartos, sem contar as Camâras de Descontaminação. Existem 12 aberturas no chão, que permitem que o Impostor se movimente para outras salas rapidamente.
 
-### Airship
+### Airship -- dia 16/01 nono commit
 é o quarto mapa de Among Us,baseado no mapa Clã Toppat no jogo Infiltrating the Airship de Henry Stickmin .É atualmente o maior mapa de Among Us e inclui mais tarefas e tem dezessete novos locais.
 
 ### The Fungle 
 é o quinto mapa de Among Us. Foi inicialmente apresentado no Summer Game Fest. Foi revelado como The Fungle em 14 de setembro de 2023 como parte de um Nintendo Direct.
+
+proximo commit→ 19/01
