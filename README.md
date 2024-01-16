@@ -39,3 +39,6 @@ Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadore
 
 ### Airship
 é o quarto mapa de Among Us,baseado no mapa Clã Toppat no jogo Infiltrating the Airship de Henry Stickmin .É atualmente o maior mapa de Among Us e inclui mais tarefas e tem dezessete novos locais.
+
+### The Fungle 
+é o quinto mapa de Among Us. Foi inicialmente apresentado no Summer Game Fest. Foi revelado como The Fungle em 14 de setembro de 2023 como parte de um Nintendo Direct.
