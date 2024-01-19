@@ -43,5 +43,12 @@ Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadore
 ### The Fungle 
 é o quinto mapa de Among Us. Foi inicialmente apresentado no Summer Game Fest. Foi revelado como The Fungle em 14 de setembro de 2023 como parte de um Nintendo Direct.
 
-proximo commit→ 19/01
-commit ein
+###
+
+## Tarefas 
+
+## 1. Skeld: 
+Acabar com os Asteroides;
+Ajustar a Potência do Motor;
+Ajustar Fiação
+Calibrar o distribuidor
