@@ -47,7 +47,8 @@ Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadore
 
 ## Tarefas 
 
-## 1. Skeld: 
+### 1. Skeld: 
+site: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 Acabar com os Asteroides;
 Ajustar a Potência do Motor;
 Ajustar Fiação
