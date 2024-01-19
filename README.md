@@ -44,3 +44,4 @@ Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadore
 é o quinto mapa de Among Us. Foi inicialmente apresentado no Summer Game Fest. Foi revelado como The Fungle em 14 de setembro de 2023 como parte de um Nintendo Direct.
 
 proximo commit→ 19/01
+commit ein
