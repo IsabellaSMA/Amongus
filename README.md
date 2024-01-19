@@ -52,3 +52,5 @@ Acabar com os Asteroides;
 Ajustar a Potência do Motor;
 Ajustar Fiação
 Calibrar o distribuidor
+Desviar a energia para a sala;
+Desbloquear colectores
