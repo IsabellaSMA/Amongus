@@ -55,9 +55,9 @@ Ajustar Fiação
 Calibrar o distribuidor
 Desviar a energia para a sala;
 Desbloquear colectores
-esvaziar escotilha
-esvaziar o lixo
-encher os motores
+Esvaziar escotilha
+Esvaziar o lixo
+Encher os motores
 Estabilizar a Direção;
 Enviar Scan
 Ligar Reator
