@@ -46,24 +46,25 @@ Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadore
 ###
 
 ## Tarefas 
+site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 ### 1. Skeld: 
-site: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
-Acabar com os Asteroides;
-Ajustar a Potência do Motor;
-Ajustar Fiação;
-Calibrar o distribuidor;
-Desviar a energia para a sala;
-Desbloquear colectores;
-Esvaziar escotilha;
-Esvaziar o lixo;
-Encher os motores;
-Estabilizar a Direção;
-Enviar Scan;
-Ligar Reator;
-Ligar Reator;
-Inspecionar Amostra;
-Mapear Rota;
-Passar o Cartão;
-Reativar Escudos;
-Transferir Dados;
+
+Acabar com os Asteroides; ---> Armas
+Ajustar a Potência do Motor; ---> Motores Superior e Inferior
+Ajustar Fiação; --->
+Calibrar o distribuidor; --->
+Desviar a energia para a sala; --->
+Desbloquear colectores; --->
+Esvaziar escotilha; --->
+Esvaziar o lixo; --->
+Encher os motores; --->
+Estabilizar a Direção; --->
+Enviar Scan; --->
+Ligar Reator; --->
+Ligar Reator; --->
+Inspecionar Amostra; --->
+Mapear Rota; --->
+Passar o Cartão; --->
+Reativar Escudos; --->
+Transferir Dados; --->
