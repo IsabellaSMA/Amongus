@@ -58,3 +58,7 @@ Desbloquear colectores
 esvaziar escotilha
 esvaziar o lixo
 encher os motores
+Estabilizar a Direção;
+Enviar Scan
+Ligar Reator
+Ligar Reator
