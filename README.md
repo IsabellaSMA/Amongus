@@ -50,21 +50,21 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 ### 1. Skeld: 
 
-Acabar com os Asteroides; ---> Armas
-Ajustar a Potência do Motor; ---> Motores Superior e Inferior
-Ajustar Fiação; ---> Eletrica, Armazenamento e Cafeteria
-Calibrar o distribuidor; ---> Elétrica
-Desviar a energia para a sala; ---> Elétrica (1ª Etapa) / Comunicações, Motor Superior, Motor Inferior, Navegação, O2, Segurança, Escudos, Armas (2ª Etapa)
-Desbloquear colectores; ---> Reator
-Esvaziar escotilha; ---> O2 (1ª Etapa) / Armazenamento (2ª Etapa)
-Esvaziar o lixo; ---> Cafeteria (1ª Etapa) / Armazenamento (2ª Etapa)
-Encher os motores; ---> Armazenamento (1ª Etapa) / Motores Superior e Inferior (2ª Etapa)
-Estabilizar a Direção; ---> Navegação 
-Enviar Scan; ---> Enfermaria
-Ligar Reator; ---> Reator
-Ligar Reator; ---> O2
-Inspecionar Amostra; ---> Enfermaria
-Mapear Rota; ---> Navegação
-Passar o Cartão; ---> Administração
-Reativar Escudos; ---> Escudos
-Transferir Dados; ---> Cafeteria, Comunicações, Elétrica, Navegação, Armas (1ª Etapa) / Administração (2ª Etapa)
+Acabar com os Asteroides ---> Armas;
+Ajustar a Potência do Motor ---> Motores Superior e Inferior;
+Ajustar Fiação ---> Eletrica, Armazenamento e Cafeteria;
+Calibrar o distribuidor ---> Elétrica;
+Desviar a energia para a sala ---> Elétrica (1ª Etapa) / Comunicações, Motor Superior, Motor Inferior, Navegação, O2, Segurança, Escudos, Armas (2ª Etapa);
+Desbloquear colectores ---> Reator;
+Esvaziar escotilha ---> O2 (1ª Etapa) / Armazenamento (2ª Etapa);
+Esvaziar o lixo ---> Cafeteria (1ª Etapa) / Armazenamento (2ª Etapa);
+Encher os motores ---> Armazenamento (1ª Etapa) / Motores Superior e Inferior (2ª Etapa);
+Estabilizar a Direção ---> Navegação;
+Enviar Scan ---> Enfermaria;
+Ligar Reator ---> Reator;
+Limpe o Filtro do O2 ---> O2;
+Inspecionar Amostra ---> Enfermaria;
+Mapear Rota ---> Navegação;
+Passar o Cartão ---> Administração;
+Reativar Escudos ---> Escudos;
+Transferir Dados ---> Cafeteria, Comunicações, Elétrica, Navegação, Armas (1ª Etapa) / Administração (2ª Etapa);
