@@ -62,3 +62,8 @@ Estabilizar a Direção;
 Enviar Scan
 Ligar Reator
 Ligar Reator
+Inspecionar Amostra
+Mapear Rota
+Passar o Cartão
+Reativar Escudos
+Transferir Dados
