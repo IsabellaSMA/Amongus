@@ -71,3 +71,6 @@ Transferir Dados ---> Cafeteria, Comunicações, Elétrica, Navegação, Armas (
 
 ### 2. Mira HQ
 
+Acabar com os Asteroides --> Varanda;
+Arrumar Fiação -->	Armazenamento, Entrada, Vestiário;	
+Compre Bebidas --> Cafeteria;
