@@ -68,3 +68,6 @@ Mapear Rota ---> Navegação;
 Passar o Cartão ---> Administração;
 Reativar Escudos ---> Escudos;
 Transferir Dados ---> Cafeteria, Comunicações, Elétrica, Navegação, Armas (1ª Etapa) / Administração (2ª Etapa);
+
+### 2. Mira HQ
+
