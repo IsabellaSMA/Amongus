@@ -49,7 +49,6 @@ Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadore
 site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 ### 1. Skeld: 
-
 Acabar com os Asteroides ---> Armas;
 Ajustar a Potência do Motor ---> Motores Superior e Inferior;
 Ajustar Fiação ---> Eletrica, Armazenamento e Cafeteria;
@@ -70,23 +69,22 @@ Reativar Escudos ---> Escudos;
 Transferir Dados ---> Cafeteria, Comunicações, Elétrica, Navegação, Armas (1ª Etapa) / Administração (2ª Etapa);
 
 ### 2. Mira HQ
-
-Acabar com os Asteroides --> Varanda;
-Arrumar Fiação -->	Armazenamento, Entrada, Vestiário;	
+Acabar com os Asteroides --> Varanda; Arrumar Fiação -->	Armazenamento, Entrada, Vestiário;	
 Compre Bebidas --> Cafeteria;
 Desviar Energia para Sala --> Reator (1ª Etapa) / Administração, Cafeteria, Comunicações, Estufa, Laboratório, Lançamento, Enfermaria, Escritório (2ª Etapa);
-Desbloquear Colectores -->	Reator	
-Executar Diagnósticos	--> Lançamento	
-Encher os Motores	Pegue o combustível e encha os motores	Lançamento	
-Esvaziar o Lixo	-->	Cafeteria	
-Enviar Scan	--> Enfermaria	
-Inserir Código ID	--> Administração	
-Limpe o Filtro do O2	-->	Estufa	
-Ligar Reator --> Reator	
-Moderar Clima	-->	Varanda
-Mapear Rota	-->	Administração
-Montar Artefato	-->	Laboratório	
-Ordenar Amostras	-->	Laboratório	
-Processar Dados	-->	Escritório	
-Reativar Escudos --> Administração	
-Regar Plantas	-->	Armazenamento (1ª Etapa) / Estufa (2ª Etapa)	
+Desbloquear Colectores -->	Reator;	
+Executar Diagnósticos	--> Lançamento;	
+Encher os Motores	Pegue o combustível e encha os motores	Lançamento;	
+Esvaziar o Lixo	-->	Cafeteria;	
+Enviar Scan	--> Enfermaria;	
+Inserir Código ID	--> Administração;	
+Limpe o Filtro do O2	-->	Estufa;	
+Ligar Reator --> Reator;	
+Moderar Clima	-->	Varanda;
+Mapear Rota	-->	Administração;
+Montar Artefato	-->	Laboratório;	
+Ordenar Amostras	-->	Laboratório;	
+Processar Dados	-->	Escritório;	
+Reativar Escudos --> Administração;	
+Regar Plantas	-->	Armazenamento (1ª Etapa) / Estufa (2ª Etapa);	
+
