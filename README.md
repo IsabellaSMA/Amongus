@@ -74,3 +74,19 @@ Transferir Dados ---> Cafeteria, Comunicações, Elétrica, Navegação, Armas (
 Acabar com os Asteroides --> Varanda;
 Arrumar Fiação -->	Armazenamento, Entrada, Vestiário;	
 Compre Bebidas --> Cafeteria;
+Desviar Energia para Sala --> Reator (1ª Etapa) / Administração, Cafeteria, Comunicações, Estufa, Laboratório, Lançamento, Enfermaria, Escritório (2ª Etapa);
+Desbloquear Colectores	Pressione os botões na ordem correta, de 1 a 10	Reator	Curta
+Executar Diagnósticos	Pressione a barra de espaço vermelha. Volte depois quando o cronômetro zerar e clique no círculo vermelho	Lançamento	Longa
+Encher os Motores	Pegue o combustível e encha os motores	Lançamento	Curta
+Esvaziar o Lixo	Puxe a alavanca para baixo até esvaziar o lixo	Cafeteria	Curta
+Enviar Scan	Suba no scanner e aguarde pelo escaneamento	Enfermaria	Longa
+Inserir Código ID	Pegue o cartão na carteira e digite o código no painel	Administração	Comum
+Limpe o Filtro do O2	Arraste as folhas para o buraco	Estufa	Curta
+Ligar Reator	Clique nos botões na ordem mostrada no painel esquerdo	Reator	Longa
+Moderar Clima	Aperte o botão “Begin” e aguarde	Varanda	Curta
+Mapear Rota	Arraste a nave pelo caminho	Administração	Curta
+Montar Artefato	Organize as peças e monte o cristal	Laboratório	Curta
+Ordenar Amostras	Coloque a amostra na caixa correta. Ela fica azul se a categoria estiver correta	Laboratório	Curta
+Processar Dados	Pressione o botão “Upload”	Escritório	Curta
+Reativar Escudos	Clique nos hexágonos vermelhos	Administração	Curta
+Regar Plantas	Pegue o regador na prateleira e regue as plantas na Estufa.	Armazenamento (1ª Etapa) / Estufa (2ª Etapa)	Longa
