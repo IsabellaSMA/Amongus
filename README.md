@@ -89,4 +89,26 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Regar Plantas	-->	Armazenamento (1ª Etapa) / Estufa (2ª Etapa);
 
   ### 3. Polus --> 22/01
-
+ Alinhar Telescópios
+ Acabar com os Asteiroides
+ Arrumar Fiação
+ Abrir Arquedutos
+ Armazenar Artefatos
+ Consertar Módulo Climático
+ Desbloquear Conectores
+ Enviar Scan
+ Escanear Passe de Entrada
+ Encher Tanques
+ Encher os Motores
+ Esvaziar o Lixo
+ Gravar Temperatura
+ Inserir Chaver
+ Ligar Reator
+ Mapear Rota
+ Monitorar Árvore
+ Passar o Cartão
+ Resetar Wifi
+ Reparar Broca
+ Substituir Galão D´Água
+ Transferir Dados
+ 
