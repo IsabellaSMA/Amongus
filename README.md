@@ -79,12 +79,14 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Enviar Scan	--> Enfermaria;	
 - Inserir Código ID	--> Administração;	
 - Limpe o Filtro do O2	-->	Estufa;	
-- Ligar Reator --> Reator;	
+- Ligar Reator --> Reator;
 - Moderar Clima	-->	Varanda;
 - Mapear Rota	-->	Administração;
 - Montar Artefato	-->	Laboratório;	
 - Ordenar Amostras	-->	Laboratório;	
 - Processar Dados	-->	Escritório;	
 - Reativar Escudos --> Administração;	
-- Regar Plantas	-->	Armazenamento (1ª Etapa) / Estufa (2ª Etapa);	
+- Regar Plantas	-->	Armazenamento (1ª Etapa) / Estufa (2ª Etapa);
+
+  ### 3. Polus --> 22/01
 
