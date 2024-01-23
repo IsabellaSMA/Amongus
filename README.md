@@ -120,8 +120,8 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Verde
 - Roxo
 - Rosa
-- 
--
+- Vermelho 
+- Ciano
 -
 -
 -
