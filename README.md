@@ -104,11 +104,11 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Gravar Temperatura --> Laboratório, Exterior;
 - Inserir Chaves --> Nave de Embarque;
 - Ligar Reator --> Sala de Espécimes;
-- Mapear Rota -->
-- Monitorar Árvore -->
-- Passar o Cartão -->
-- Resetar Wifi -->
-- Reparar Broca -->
-- Substituir Galão D´Água -->
-- Transferir Dados -->
+- Mapear Rota --> Nave de Embarque 
+- Monitorar Árvore --> o2
+- Passar o Cartão --> escritório 
+- Resetar Wifi --> comunicações 
+- Reparar Broca --> laboratório 
+- Substituir Galão D´Água --> Sala da Caldeira (1ª Etapa) / Escritório (2ª Etapa)
+- Transferir Dados --> Elétrica, O2, Escritório, Sala de Espécimes, Armas (1ª Etapa) / Comunicações (2ª Etapa)
  
