@@ -122,23 +122,18 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Ciano
 - Cinza
 - Coral
-
-- 
-- Verde
-- Roxo
-- Rosa
-- Vermelho 
-  
-- Laranja 
-- preto
-  
-- marrom
-  
-- fortGreen
-- oliva
-- Tan
-  
-- lima
-- 
+- FortGreen
+- Laranja
+- Lima
+- Marrom
 - Maroon
+- Oliva
+- Preto
+- Rosa
 - Rose
+- Roxo
+- Tan
+- Verde
+- Vermelho
+
+  
