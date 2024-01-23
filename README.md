@@ -131,10 +131,10 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - oliva
 - Tan
 - cinza
--
--
--
--
+- lima
+- branco
+- Maroon
+- Rose
 -
 -
 - 
