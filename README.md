@@ -111,4 +111,18 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Reparar Broca --> Laboratório;
 - Substituir Galão D´Água --> Sala da Caldeira (1ª Etapa) / Escritório (2ª Etapa);
 - Transferir Dados --> Elétrica, O2, Escritório, Sala de Espécimes, Armas (1ª Etapa) / Comunicações (2ª Etapa);
- 
+###
+
+## Cores
+
+- Azul
+- Amarelo
+-
+-
+-
+-
+-
+-
+-
+-
+-
