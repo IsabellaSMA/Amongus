@@ -122,7 +122,7 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Rosa
 - Vermelho 
 - Ciano
--
--
--
--
+- Laranja 
+- preto
+- banana
+- marrom
