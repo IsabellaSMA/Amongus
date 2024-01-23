@@ -129,8 +129,8 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - coral
 - fortGreen
 - oliva
--
--
+- Tan
+- cinza
 -
 -
 -
