@@ -89,13 +89,13 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Regar Plantas	-->	Armazenamento (1ª Etapa) / Estufa (2ª Etapa);
 
   ### 3. Polus --> 22/01
-- Alinhar Telescópios --> Laboratório
-- Acabar com os Asteiroides --> Armas 
-- Arrumar Fiação --> Elétrica, O2, Laboratório
-- Abrir Arquedutos --> Sala da caldeira
-- Armazenar Artefatos --> sala de espécimes
-- Consertar Módulo Climático --> exterior
-- Desbloquear Conectores --> sala de espécimes
+- Alinhar Telescópios --> Laboratório;
+- Acabar com os Asteiroides --> Armas ;
+- Arrumar Fiação --> Elétrica, O2, Laboratório;
+- Abrir Arquedutos --> Sala da caldeira;
+- Armazenar Artefatos --> sala de espécimes;
+- Consertar Módulo Climático --> exterior;
+- Desbloquear Conectores --> sala de espécimes;
 - Enviar Scan --> Enfermaria
 - Escanear Passe de Entrada --> Escritório
 - Encher Tanques --> O2
