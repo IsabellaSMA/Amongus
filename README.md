@@ -114,18 +114,18 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 ###
 
 ## Cores:
-- Amarelo -> 
-- Azul ->
-- Banana ->
-- Branco ->
-- Ciano ->
-- Cinza ->
-- Coral ->
-- FortGreen ->
-- Laranja ->
-- Lima ->
-- Marrom ->
-- Maroon ->
+- Amarelo 
+- Azul 
+- Banana 
+- Branco 
+- Ciano 
+- Cinza 
+- Coral 
+- FortGreen 
+- Laranja 
+- Lima 
+- Marrom 
+- Maroon 
 - Oliva ->
 - Preto ->
 - Rosa ->
