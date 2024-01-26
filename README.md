@@ -113,13 +113,12 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Transferir Dados --> Elétrica, O2, Escritório, Sala de Espécimes, Armas (1ª Etapa) / Comunicações (2ª Etapa);
 ###
 
-## Cores
-
-- Amarelo
-- Azul
-- Banana
-- Branco
-- Ciano
+## Cores:
+- Amarelo -> 
+- Azul ->
+- Banana ->
+- Branco ->
+- Ciano ->
 - Cinza
 - Coral
 - FortGreen
