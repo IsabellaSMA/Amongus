@@ -113,7 +113,11 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Transferir Dados --> Elétrica, O2, Escritório, Sala de Espécimes, Armas (1ª Etapa) / Comunicações (2ª Etapa);
 ###
 
-## Tarefas do Impostor:
+## Tarefas do Impostor: -> 26/21
+- matar os outrso tripulantes
+- se misturar com a tripulação
+- se esconder tubulação
+- 
 
 ## Cores:
 - Amarelo 
