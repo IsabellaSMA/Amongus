@@ -119,20 +119,20 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Banana ->
 - Branco ->
 - Ciano ->
-- Cinza
-- Coral
-- FortGreen
-- Laranja
-- Lima
-- Marrom
-- Maroon
-- Oliva
-- Preto
-- Rosa
-- Rose
-- Roxo
-- Tan
-- Verde
+- Cinza ->
+- Coral ->
+- FortGreen ->
+- Laranja ->
+- Lima ->
+- Marrom ->
+- Maroon ->
+- Oliva ->
+- Preto ->
+- Rosa ->
+- Rose ->
+- Roxo ->
+- Tan ->
+- Verde ->
 - Vermelho
 
   
