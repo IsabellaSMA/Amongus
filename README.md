@@ -108,15 +108,6 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Reparar Broca --> Laboratório;
 - Substituir Galão D´Água --> Sala da Caldeira (1ª Etapa) / Escritório (2ª Etapa);
 - Transferir Dados --> Elétrica, O2, Escritório, Sala de Espécimes, Armas (1ª Etapa) / Comunicações (2ª Etapa);
-###
-
-## Tarefas do Impostor: -> 26/21
-- matar os outrso tripulantes
-- se misturar com a tripulação
-- se esconder tubulação
-- sabotar a nave
-- fechar as portas e prenser as vítimas
-- fingir estar fazendo as tarefas
 
 ## Cores:
 - Amarelo 
@@ -141,5 +132,16 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Vermelho 
 
 ## Profissões -> 28/01
+ ### Impostor: 
+- matar os outrso tripulantes
+- se misturar com a tripulação
+- se esconder tubulação
+- sabotar a nave
+- fechar as portas e prenser as vítimas
+- fingir estar fazendo as tarefas
+  
+### Tripulação:
+- completar  as tarefas enquanto se mantém vivo e descobrir quem é/ são os impostores. Os tripulantes ganham desde que as tarefas forem completas e não tenham mais impostores no jogo
+
 
   
