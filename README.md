@@ -131,7 +131,7 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Verde 
 - Vermelho 
 
-## Profissões -> 28/01
+## Profissões (Roles) -> 28/01
  ### Impostor: 
 - Matar os outrso tripulantes
 - Se misturar com a tripulação
