@@ -143,5 +143,10 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 ### Tripulação:
 - completar  as tarefas enquanto se mantém vivo e descobrir quem é/ são os impostores. Os tripulantes ganham desde que as tarefas forem completas e não tenham mais impostores no jogo
 
+### Fantasma
+- os fantasmas são jogadores que foram mortos pelo impostor ou expulsos da nave, seu objetivo segue sendo o mesmo de quando eles estavam vivos. 
+
+Ghosts are role that players obtain when they are killed or ejected, their goal remain the same when they are alive as ghosts still win with their team.
+
 
   
