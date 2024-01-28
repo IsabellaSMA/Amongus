@@ -146,7 +146,7 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 ### Fantasma
 - os fantasmas são jogadores que foram mortos pelo impostor ou expulsos da nave, seu objetivo segue sendo o mesmo de quando eles estavam vivos. 
 
-Ghosts are role that players obtain when they are killed or ejected, their goal remain the same when they are alive as ghosts still win with their team.
-
+### Cientista
+- Os jogadores com essa função recebem um vital portátil para monitorar que pode ser acessado de qualquer lugar do mapa, no entanto, os sinais vitais portáteis duram apenas 5 segundos (ajustáveis em opções) e para recarregar, o cientista deve completar uma tarefa ou esperar por 20 segundos, se eles completaram todas as suas tarefas (ajustáveis em opções). Cientista não pode usar seus sinais vitais portáteis durante a sabotagem de comunicações.
 
   
