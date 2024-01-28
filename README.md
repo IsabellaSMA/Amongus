@@ -149,4 +149,5 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 ### Cientista
 - Os jogadores com essa função recebem um vital portátil para monitorar que pode ser acessado de qualquer lugar do mapa, no entanto, os sinais vitais portáteis duram apenas 5 segundos (ajustáveis em opções) e para recarregar, o cientista deve completar uma tarefa ou esperar por 20 segundos, se eles completaram todas as suas tarefas (ajustáveis em opções). Cientista não pode usar seus sinais vitais portáteis durante a sabotagem de comunicações.
 
-  
+### Engenheiro
+- Os jogadores com este papel recebem a capacidade de se esconder ou viajar através de aberturas e não podem ser mortos enquanto no respiradouro como resultado, eles podem ficar no respiradouro por 5 segundos e para recuperar a capacidade de ventilar, o engenheiro deve completar uma tarefa ou esperar por 20 segundos, se completaram todas as suas tarefas. Engenheiro não pode desabafar durante sabotagem de comms.  
