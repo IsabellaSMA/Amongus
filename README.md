@@ -133,18 +133,18 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 ## Profissões -> 28/01
  ### Impostor: 
-- matar os outrso tripulantes
-- se misturar com a tripulação
-- se esconder tubulação
-- sabotar a nave
-- fechar as portas e prenser as vítimas
-- fingir estar fazendo as tarefas
+- Matar os outrso tripulantes
+- Se misturar com a tripulação
+- Se esconder tubulação
+- Sabotar a nave
+- Fechar as portas e prenser as vítimas
+- Fingir estar fazendo as tarefas
   
 ### Tripulação:
-- completar  as tarefas enquanto se mantém vivo e descobrir quem é/ são os impostores. Os tripulantes ganham desde que as tarefas forem completas e não tenham mais impostores no jogo
+- Completar  as tarefas enquanto se mantém vivo e descobrir quem é/ são os impostores. Os tripulantes ganham desde que as tarefas forem completas e não tenham mais impostores no jogo
 
 ### Fantasma
-- os fantasmas são jogadores que foram mortos pelo impostor ou expulsos da nave, seu objetivo segue sendo o mesmo de quando eles estavam vivos. 
+- Os fantasmas são jogadores que foram mortos pelo impostor ou expulsos da nave, seu objetivo segue sendo o mesmo de quando eles estavam vivos. 
 
 ### Cientista
 - Os jogadores com essa função recebem um vital portátil para monitorar que pode ser acessado de qualquer lugar do mapa, no entanto, os sinais vitais portáteis duram apenas 5 segundos (ajustáveis em opções) e para recarregar, o cientista deve completar uma tarefa ou esperar por 20 segundos, se eles completaram todas as suas tarefas (ajustáveis em opções). Cientista não pode usar seus sinais vitais portáteis durante a sabotagem de comunicações.
