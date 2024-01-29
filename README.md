@@ -156,6 +156,6 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Os jogadores com esse papel recebem a capacidade de proteger os jogadores vivos de serem mortos, mas apenas se eles forem companheiros de tripulação, cientistas ou engenheiros, tiverem morrido e o Anjo da Guarda estiver habilitado.
 
 ### Metamorfo
-The Shapeshifter is an additional role added in version 2021.11.9 that was announced on October 27, 2021. Players who have this role have the ability to transform into other living players for a limited time to trick crewmates with a 30 seconds cooldown (adjustable in options) lasting 10 seconds (adjustable in options). It is the only additional role that is based on the Impostor role.
+- possui a habilidade de se transformar em qualquer outro jogador por um curto período de tempo para enganar os tripulantes.
 
 ### Oráculo
