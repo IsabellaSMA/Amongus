@@ -154,3 +154,8 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 ### Anjo da Guarda ->29/01 
 The Guardian Angel is an additional role that was added in version 2021.11.9. Players with this role are given the ability to Protect living players from being killed, but only if they are crewmate, scientist or engineer, have died and Guardian Angel is enabled. Guardian Angel can use protect on any alive player with a 60 seconds cooldown (adjustable in options) for 30 seconds (adjustable in options). Guardian Angel cannot just their protect during comms sabotage.
+
+### Metamorfo
+The Shapeshifter is an additional role added in version 2021.11.9 that was announced on October 27, 2021. Players who have this role have the ability to transform into other living players for a limited time to trick crewmates with a 30 seconds cooldown (adjustable in options) lasting 10 seconds (adjustable in options). It is the only additional role that is based on the Impostor role.
+
+oraculo
