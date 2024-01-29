@@ -1,6 +1,6 @@
 ###  Olá! Sou a Isabella Silva Alves e seja bem vindo(a) ao meu repositório dedicado ao jogo Among Us
 
-ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
+ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
 
 <img width= "55%" src="https://storage.stwonline.com.br/180graus/uploads/ckeditor/pictures/2385593/93gaa4wm3z4hbenzlbxweq-1jxe.jpg">
 
@@ -151,3 +151,5 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 ### Engenheiro
 - Os jogadores com este papel recebem a capacidade de se esconder ou viajar através de aberturas e não podem ser mortos enquanto no respiradouro como resultado, eles podem ficar no respiradouro por 5 segundos e para recuperar a capacidade de ventilar, o engenheiro deve completar uma tarefa ou esperar por 20 segundos, se completaram todas as suas tarefas. Engenheiro não pode desabafar durante sabotagem de comms.  
+
+->29/01
