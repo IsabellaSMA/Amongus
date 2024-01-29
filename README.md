@@ -159,3 +159,4 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - possui a habilidade de se transformar em qualquer outro jogador por um curto período de tempo para enganar os tripulantes.
 
 ### Oráculo
+- Cpnslui que um tripulante não é um Impostor
