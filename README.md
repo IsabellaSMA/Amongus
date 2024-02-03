@@ -163,3 +163,8 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 ## Modo esconde-esconde:
 -O impostor (procurador) tem que matar os tripulantes que estarão escondidos pelo mapa. Os jogadores possuem visão limitada e podem apenas ver o que esta na frente de seu personagem, o impostor é caracterizado visualmente com uma boca aberta com dentes afiados e uma lingua balançando. As vítimas têm 3 minutos para sobreviver, após 1 minuto faltando, ocorre a procura final, as localizações das vítimas pode ser procuradas pelo impostor. O impostor vence se matar todas as vítimas, do contrário, eles ganham.
+
+
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
