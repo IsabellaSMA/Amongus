@@ -167,6 +167,5 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 
 dia 30 e 02 faltantes
-
-correr atrás dos outros dias
 fazer 6 commits 
+1 ja foi
