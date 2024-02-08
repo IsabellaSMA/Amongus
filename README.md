@@ -1,6 +1,6 @@
 ###  Olá! Sou a Isabella Silva Alves e seja bem vindo(a) ao meu repositório dedicado ao jogo Among Us
 
-123456
+1234567
 
 ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
 
