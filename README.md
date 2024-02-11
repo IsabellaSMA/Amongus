@@ -171,9 +171,6 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 
 
-Hide n Seek is a game mode in Among Us, released on December 9, 2022.
-
-
 
 ADVERTISEMENT
 Overview
