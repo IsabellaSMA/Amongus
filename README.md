@@ -164,29 +164,15 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 ## Modo esconde-esconde:
 -O impostor (procurador) tem que matar os tripulantes que estarão escondidos pelo mapa. Os jogadores possuem visão limitada e podem apenas ver o que esta na frente de seu personagem, o impostor é caracterizado visualmente com uma boca aberta com dentes afiados e uma lingua balançando. As vítimas têm 3 minutos para sobreviver, após 1 minuto faltando, ocorre a procura final, as localizações das vítimas pode ser procuradas pelo impostor. O impostor vence se matar todas as vítimas, do contrário, eles ganham.
 
-## Esconde- Esconde
-The Impostor, also known as the Seeker, has to kill Crewmates who are hiding throughout the map. Living players have limited vision (configurable) and can only see what's ahead of their character. The Impostor is visually distinguished from the other Crewmates, having a permanently open mouth with sharp teeth and a wiggling tongue. The Crewmates have 3 minutes to survive. After there is 1 minute left, the Final Hide begins, the Crewmate locations can be hinted to The Impostor. During this last minute, The Impostor gains a speed boost and tasks are disabled for the rest of the game. The Timer Bar has also turned red. All Crewmates can use the Vent ability to hide from The Impostor but can only vent for a limited number of times per game and venting has a drastically reduced duration. The task bar is replaced by a timer bar, though tasks are still available, and completing them will reduce the time. The Impostor wins if all Crewmates are killed, otherwise, the Crewmates win.
-
-Gameplay Differences
-The game mode has a time limit of 3 minutes but can be changed up to five minutes in the settings menu.
-After two minutes (configurable), the Final Hide begins. In this last phase, Impostor gets a speed boost (can be adjusted in Options) and the Seek ability, depending on if they don't have the ability yet. The timer bar and map become red, similar to during critical Sabotages. Crewmates can no longer complete tasks. During the Final Hide, pings will be emitted every 6 seconds (configurable), giving the Impostor a temporary location of all crewmates. The Ping interval can be adjusted in Options.
-Players have a limited cone of vision called the Flashlight which can be moved around. It can be removed, or its range can be altered in the options.
-There is only one Impostor, who is revealed to all players during the role reveal.
-In private lobbies, hosts can choose who is The Impostor, however, in public lobbies, The Impostor is chosen randomly in a setting called "Round-robin".
-Quite rarely, but it is possible to get Impostor/Seeker multiple times in a row during the Round-Robin setting.
-The Impostor is taller and has an open mouth, fixed in a wicked grin, with sharp teeth and a wiggling needle tongue.
-The Impostor has a kill cooldown of 1 second.
-The Impostor can use the Seek ability in the final minute or once they have killed enough Crewmates, as mentioned before.
-All Crewmates are automatically Engineers and can Vent, but only a limited number of times. The number of vent uses and amount of seconds inside the vent allowed can be altered in the options. Also, The Impostor cannot vent.
-There is a Danger Meter on the top left corner that tells the Crewmates how close The Impostor is to the player. It changes from blue to yellow to red. It will start shaking once the Danger Meter is at 5, the highest.
-There is background music that gets louder and has more riffs, depending on the proximity to The Impostor. It can only be heard when alive, after being killed this music is fixed on the lowest level, even if you're next to them or spectating them.
-If you are The Impostor then the music played is slightly different and plays always.
-Underneath the timer, there is a set of grayed-out Crewmates, which will change depending on the player count. When The Impostor kills someone, an icon will be crossed out. When someone leaves the game for unknown reasons, an icon will disappear.
-There is a message that pops up on the screen that tells players when a Crewmate is killed, this also displays the nameplate of the victim.
-Ghosts cannot do tasks. Instead, they are prompted to "Enjoy the Chaos".
-Sabotage, emergency meetings, and Report are disabled. On all maps, the emergency button is also destroyed.
-On The Airship, the moving platform in Gap Room is inaccessible and stuck in the middle of the gap with a cross-out sign on it.
-In this mode, any visor or skin cosmetics on The Impostor will be temporarily removed. However hat cosmetics are still visible.
-In this mode, pets tend to cause lag for all players. However, this will probably be fixed.
-When the game starts, The Impostor falls to the ground, and after a few seconds, a mouth appears out of nowhere and The Impostor screams a terror scream. The Impostor animation plays on the bottom left corner of the Gap Room on the Airship, as it is unknown where they will spawn.
+### Diferenças de jogo
+O modo de jogo tem um limite de tempo de 3 minutos, mas pode ser alterado até 5 minutos no menu de definições.
+Após dois minutos (configuráveis), começa o Esconderijo Final. Nesta última fase, o Impostor recebe um aumento de velocidade (pode ser ajustado nas Opções) e a habilidade Procurar, dependendo se ainda não tem a habilidade. A barra do temporizador e o mapa ficam vermelhos, tal como durante as Sabotagens críticas. Os companheiros de equipa já não podem completar tarefas. Durante o Esconderijo Final, pings serão emitidos a cada 6 segundos (configurável), dando ao Impostor uma localização temporária de todos os tripulantes. O intervalo de pings pode ser ajustado em Opções.
+Os jogadores têm um cone de visão limitado chamado Lanterna que pode ser movido. Pode ser removido ou o seu alcance pode ser alterado nas opções.
+Existe apenas um Impostor, que é revelado a todos os jogadores durante a revelação do papel.
+Nos lobbies privados, os anfitriões podem escolher quem é o Impostor, no entanto, nos lobbies públicos, o Impostor é escolhido aleatoriamente numa configuração chamada "Round-robin".
+É muito raro, mas é possível obter o Impostor/Seeker várias vezes seguidas durante o Round-Robin.
+O Impostor é mais alto e tem a boca aberta, fixa num sorriso maléfico, com dentes afiados e uma língua em forma de agulha que se agita.
+O Impostor tem um tempo de espera para matar de 1 segundo.
+O Impostor pode usar a habilidade Procurar no último minuto ou depois de matar um número suficiente de Tripulantes, como mencionado anteriormente.
+Todos os companheiros de tripulação são automaticamente Engenheiros e podem Desabafar, mas apenas um número limitado de vezes.
 
