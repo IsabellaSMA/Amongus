@@ -165,13 +165,6 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 -O impostor (procurador) tem que matar os tripulantes que estarão escondidos pelo mapa. Os jogadores possuem visão limitada e podem apenas ver o que esta na frente de seu personagem, o impostor é caracterizado visualmente com uma boca aberta com dentes afiados e uma lingua balançando. As vítimas têm 3 minutos para sobreviver, após 1 minuto faltando, ocorre a procura final, as localizações das vítimas pode ser procuradas pelo impostor. O impostor vence se matar todas as vítimas, do contrário, eles ganham.
 
 ## Esconde- Esconde
-
-
-
-
-
-ADVERTISEMENT
-Overview
 The Impostor, also known as the Seeker, has to kill Crewmates who are hiding throughout the map. Living players have limited vision (configurable) and can only see what's ahead of their character. The Impostor is visually distinguished from the other Crewmates, having a permanently open mouth with sharp teeth and a wiggling tongue. The Crewmates have 3 minutes to survive. After there is 1 minute left, the Final Hide begins, the Crewmate locations can be hinted to The Impostor. During this last minute, The Impostor gains a speed boost and tasks are disabled for the rest of the game. The Timer Bar has also turned red. All Crewmates can use the Vent ability to hide from The Impostor but can only vent for a limited number of times per game and venting has a drastically reduced duration. The task bar is replaced by a timer bar, though tasks are still available, and completing them will reduce the time. The Impostor wins if all Crewmates are killed, otherwise, the Crewmates win.
 
 Gameplay Differences
