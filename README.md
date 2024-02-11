@@ -170,8 +170,6 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 
 
 
-
-
 ADVERTISEMENT
 Overview
 The Impostor, also known as the Seeker, has to kill Crewmates who are hiding throughout the map. Living players have limited vision (configurable) and can only see what's ahead of their character. The Impostor is visually distinguished from the other Crewmates, having a permanently open mouth with sharp teeth and a wiggling tongue. The Crewmates have 3 minutes to survive. After there is 1 minute left, the Final Hide begins, the Crewmate locations can be hinted to The Impostor. During this last minute, The Impostor gains a speed boost and tasks are disabled for the rest of the game. The Timer Bar has also turned red. All Crewmates can use the Vent ability to hide from The Impostor but can only vent for a limited number of times per game and venting has a drastically reduced duration. The task bar is replaced by a timer bar, though tasks are still available, and completing them will reduce the time. The Impostor wins if all Crewmates are killed, otherwise, the Crewmates win.
