@@ -1,4 +1,5 @@
 ###  Olá! Sou a Isabella Silva Alves e seja bem vindo(a) ao meu repositório dedicado ao jogo Among Us
+0
 
 ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
 
