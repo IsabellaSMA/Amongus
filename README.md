@@ -163,17 +163,17 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Conclui que um tripulante não é um Impostor
 
 ## Modo esconde-esconde:
--O impostor (procurador) tem que matar os tripulantes que estarão escondidos pelo mapa. Os jogadores possuem visão limitada e podem apenas ver o que esta na frente de seu personagem, o impostor é caracterizado visualmente com uma boca aberta com dentes afiados e uma lingua balançando. As vítimas têm 3 minutos para sobreviver, após 1 minuto faltando, ocorre a procura final, as localizações das vítimas pode ser procuradas pelo impostor. O impostor vence se matar todas as vítimas, do contrário, eles ganham.
+- O impostor (procurador) tem que matar os tripulantes que estarão escondidos pelo mapa. Os jogadores possuem visão limitada e podem apenas ver o que esta na frente de seu personagem, o impostor é caracterizado visualmente com uma boca aberta com dentes afiados e uma lingua balançando. As vítimas têm 3 minutos para sobreviver, após 1 minuto faltando, ocorre a procura final, as localizações das vítimas pode ser procuradas pelo impostor. O impostor vence se matar todas as vítimas, do contrário, eles ganham.
 
 ### Diferenças de jogo
 O modo de jogo tem um limite de tempo de 3 minutos, mas pode ser alterado até 5 minutos no menu de definições.
-Após dois minutos (configuráveis), começa o Esconderijo Final. Nesta última fase, o Impostor recebe um aumento de velocidade (pode ser ajustado nas Opções) e a habilidade Procurar, dependendo se ainda não tem a habilidade. A barra do temporizador e o mapa ficam vermelhos, tal como durante as Sabotagens críticas. Os companheiros de equipa já não podem completar tarefas. Durante o Esconderijo Final, pings serão emitidos a cada 6 segundos (configurável), dando ao Impostor uma localização temporária de todos os tripulantes. O intervalo de pings pode ser ajustado em Opções.
-Os jogadores têm um cone de visão limitado chamado Lanterna que pode ser movido. Pode ser removido ou o seu alcance pode ser alterado nas opções.
-Existe apenas um Impostor, que é revelado a todos os jogadores durante a revelação do papel.
-Nos lobbies privados, os anfitriões podem escolher quem é o Impostor, no entanto, nos lobbies públicos, o Impostor é escolhido aleatoriamente numa configuração chamada "Round-robin".
+Após dois minutos (configuráveis), começa o Esconderijo Final. Nesta última fase, o Impostor recebe um aumento de velocidade e a habilidade Procurar, dependendo se ainda não tem a habilidade. A barra do temporizador e o mapa ficam vermelhos, tal como durante as Sabotagens críticas. Os companheiros de equipe já não podem completar tarefas. Durante o Esconderijo Final, pings serão emitidos a cada 6 segundos, dando ao Impostor uma localização temporária de todos os tripulantes.
+- Os jogadores têm um cone de visão limitado chamado Lanterna que pode ser movido.Existe apenas um Impostor, que é revelado a todos os jogadores durante a revelação do papel.
+- Nos lobbies privados, os anfitriões podem escolher quem é o Impostor, no entanto, nos lobbies públicos, o Impostor é escolhido aleatoriamente numa configuração chamada "Round-robin".
 É muito raro, mas é possível obter o Impostor/Seeker várias vezes seguidas durante o Round-Robin.
-O Impostor é mais alto e tem a boca aberta, fixa num sorriso maléfico, com dentes afiados e uma língua em forma de agulha que se agita.
-O Impostor tem um tempo de espera para matar de 1 segundo.
-O Impostor pode usar a habilidade Procurar no último minuto ou depois de matar um número suficiente de Tripulantes, como mencionado anteriormente.
-Todos os companheiros de tripulação são automaticamente Engenheiros e podem Desabafar, mas apenas um número limitado de vezes.
+### O Impostor
+- é mais alto e tem a boca aberta, fixa num sorriso maléfico, com dentes afiados e uma língua em forma de agulha que se agita.
+- O Impostor tem um tempo de espera para matar de 1 segundo.
+- O Impostor pode usar a habilidade Procurar no último minuto ou depois de matar um número suficiente de Tripulantes, como mencionado anteriormente.
+
 
