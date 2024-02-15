@@ -181,3 +181,4 @@ Após dois minutos (configuráveis), começa o Esconderijo Final. Nesta última 
 ## Sucesso do jogo na Pandemia:
 por: https://canaltech.com.br/games/among-us-sucesso-como-explicar-172754/
 
+Com isolamento social, as pessoas têm mais tempo para jogar.
