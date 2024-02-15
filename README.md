@@ -17,8 +17,10 @@ Among Us é um jogo de mistério de assassinato de ficção científica que segu
 ## Criador do jogo 
 Marcus Bromander concebeu a ideia originalmente, baseando-se em Detetive, chamado de Mafia em inglês, ou Werewolf, jogo social de dedução onde cada pessoa recebe uma função e precisa executar tarefas para vencer.
 
-### Onde baixar: Steam| Google Play Store | App Store | U Torrent
+## Onde baixar:
+Steam| Google Play Store | App Store | U Torrent
 
+##Limite de jogadores: 10 por partida.
 
 ## Mapas:
 
