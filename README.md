@@ -181,4 +181,4 @@ Após dois minutos (configuráveis), começa o Esconderijo Final. Nesta última 
 ## Sucesso do jogo na Pandemia:
 por: https://canaltech.com.br/games/among-us-sucesso-como-explicar-172754/
 
-Com isolamento social, as pessoas têm mais tempo para jogar.
+Com isolamento social, as pessoas têm mais tempo para jogar.A pandemia revelou uma necessidade de contato social à distância, popularizando também ferramentas  de comunicação por texto, voz e vídeo. Among Us oferece esta aproximação, como uma desculpa a mais para encontrar amigos.
