@@ -178,4 +178,6 @@ Após dois minutos (configuráveis), começa o Esconderijo Final. Nesta última 
 - O Impostor tem um tempo de espera para matar de 1 segundo.
 - O Impostor pode usar a habilidade Procurar no último minuto ou depois de matar um número suficiente de Tripulantes, como mencionado anteriormente.
 
+## Sucesso do jogo na Pandemia:
+por: https://canaltech.com.br/games/among-us-sucesso-como-explicar-172754/
 
