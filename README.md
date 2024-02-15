@@ -182,3 +182,5 @@ Após dois minutos (configuráveis), começa o Esconderijo Final. Nesta última 
 por: https://canaltech.com.br/games/among-us-sucesso-como-explicar-172754/
 
 Com isolamento social, as pessoas têm mais tempo para jogar.A pandemia revelou uma necessidade de contato social à distância, popularizando também ferramentas  de comunicação por texto, voz e vídeo. Among Us oferece esta aproximação, como uma desculpa a mais para encontrar amigos.
+### A carona do Discord
+A plataforma de conversas e chat famosa entre gamers viu uma expansão grande com a popularidade do jogo. Isso porque o Among Us exige um nível alto de interação.O título até traz um chat para os momentos de decisão para descobrir quem é o impostor, mas grande parte dos usuários prefere usar chat por voz para isso.Um estudo do Apptopia revelou que o Discord caiu no gosto dos jogadores. A curva de novos downloads do serviço sobe em uma proporção muito parecida com a do Among Us.Enquanto a média de downloads do Discord se mantinha na casa dos 200 mil diários, este número subiu para 400 mil no início da pandemia e explodiu para a casa dos 800 mil diários.
