@@ -140,10 +140,10 @@ Chapéus - O jogo possui mais de 200 chapéis, dentre eles estão:
 - A toast to Butter days
 - Abominal Head
 - Anchors Way 
-Aquatic Apparatus
-Arrow´d 
-Ayunda Risu Hat
-Batbean
+- Aquatic Apparatus
+- Arrow´d 
+- Ayunda Risu Hat
+- Batbean
 
 
 ## Profissões (Roles) -> 28/01
