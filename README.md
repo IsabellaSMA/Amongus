@@ -145,14 +145,30 @@ Chapéus - O jogo possui mais de 200 chapéis, dentre eles estão:
 - Ayunda Risu Hat
 - Batbean
 - Bean Baby
-Bean Baron
-Beanie
-Berry Bashful
-Blondie
-Box top
-Caiatl´s Helm
-Caitlyn´s Cap
-Calus´s Chalice
+- Bean Baron
+- Beanie
+- Berry Bashful
+- Blondie
+- Box top
+- Caiatl´s Helm
+- Caitlyn´s Cap
+- Calus´s Chalice
+Candycorny
+Cap-tain
+Cherry on top
+Clogged
+Crack-a-lacking
+Crasher´s Helmet
+Crowned
+Double Crown
+Eggscellent
+Evergreen
+Fez up
+Float flamingo
+Folded
+Franken´s Spouse
+Funky Fusion
+
 
 
 ## Profissões (Roles) -> 28/01
