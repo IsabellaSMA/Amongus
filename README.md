@@ -144,6 +144,15 @@ Chapéus - O jogo possui mais de 200 chapéis, dentre eles estão:
 - Arrow´d 
 - Ayunda Risu Hat
 - Batbean
+- Bean Baby
+Bean Baron
+Beanie
+Berry Bashful
+Blondie
+Box top
+Caiatl´s Helm
+Caitlyn´s Cap
+Calus´s Chalice
 
 
 ## Profissões (Roles) -> 28/01
