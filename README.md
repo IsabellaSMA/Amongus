@@ -135,6 +135,16 @@ site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
 - Vermelho 
 
 ## Acessórios:
+Chapéus - O jogo possui mais de 200 chapéis, dentre eles estão: 
+- A Real Wiz
+- A toast to Butter days
+- Abominal Head
+- Anchors Way 
+Aquatic Apparatus
+Arrow´d 
+Ayunda Risu Hat
+Batbean
+
 
 ## Profissões (Roles) -> 28/01
  ### Impostor: 
