@@ -153,21 +153,21 @@ Chapéus - O jogo possui mais de 200 chapéis, dentre eles estão:
 - Caiatl´s Helm
 - Caitlyn´s Cap
 - Calus´s Chalice
-Candycorny
-Cap-tain
-Cherry on top
-Clogged
-Crack-a-lacking
-Crasher´s Helmet
-Crowned
-Double Crown
-Eggscellent
-Evergreen
-Fez up
-Float flamingo
-Folded
-Franken´s Spouse
-Funky Fusion
+- Candycorny
+- Cap-tain
+- Cherry on top
+- Clogged
+- Crack-a-lacking
+- Crasher´s Helmet
+- Crowned
+- Double Crown
+- Eggscellent
+- Evergreen
+- Fez up
+- Float flamingo
+- Folded
+- Franken´s Spouse
+- Funky Fusion
 
 
 
