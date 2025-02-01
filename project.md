@@ -32,12 +32,19 @@ Marcus Bromander concebeu a ideia originalmente, baseando-se em Detetive, chamad
 Skeld, é o primeiro mapa de Among Us ambientado em uma nave espacial no espaço sideral. Ele é selecionado automaticamente ao abrir o jogo pela primeira vez.
 Locais: Cafeteria; Navegações, Comunicações, Administração, Elétrica, Segurança, Reator..
 
-### 2. Mira HQ
+### 2. Mira HQ <br>
+<div align=center> 
+  <img src="https://th.bing.com/th/id/OIP.Gk7ntBgLYD8eKWJBId7nGgAAAA?w=300&h=180&c=7&r=0&o=5&pid=1.7">
+</div>
+
 O mapa é localizado em um arranha-céu conhecido como os Quartel General MIRA (MIRA HQ). É uma torre gigante até as nuvens, com sensores de movimento em 3 corredores conhecidos como Corredores Sudeste, Sudoeste e Norte. Possui as mesmas tasks do The Skeld, porém tem as suas próprias.
 
 Novidades que o mapa trouxe: Nova sabotagem; Novas Tasks;Sensores de Movimento; Novo sistema de Descontaminação (incluindo novas portas)
 
 ### 3. Polus
+<div align=center>
+  <img src="">
+</div>
 é o terceiro mapa do Among Us, ​​​sendo o segundo maior mapa. Ele é localizado em um planeta homônimo, aparentemente sendo uma base interplanetária.
 Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadores possam explorar fora da base, circulando pelo planeta. O mapa conta com 15 quartos, sem contar as Camâras de Descontaminação. Existem 12 aberturas no chão, que permitem que o Impostor se movimente para outras salas rapidamente.
 
