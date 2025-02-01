@@ -1,6 +1,8 @@
 
 # Sobre o jogo
-<img alig="center" width="50%" src="https://th.bing.com/th/id/OIP.wh8SF8znvA_PN6rUHWMMsQHaEK?rs=1&pid=ImgDetMain">
+<div align="center">
+  <img width="50%" src="https://th.bing.com/th/id/OIP.wh8SF8znvA_PN6rUHWMMsQHaEK?rs=1&pid=ImgDetMain">
+</div>
 Among Us é um jogo de mistério de assassinato de ficção científica que segue um grupo de Crewmates que têm Impostores entre eles. O objetivo do Impostor é sabotar seu navio e matar a todos. Os Crewmates precisam completar tarefas e votar no Impostor.
 
 ## Criador do jogo 
