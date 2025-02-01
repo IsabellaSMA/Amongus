@@ -10,14 +10,14 @@ Marcus Bromander concebeu a ideia originalmente, baseando-se em Detetive, chamad
 
 ## Onde baixar:
 
-<div alig="center">
-  <img width="30" src="https://th.bing.com/th/id/R.93a4a65e7693d8b1739c9fb203089801?rik=0SXpP4ELODKVDw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f05%2fSteam_icon_logo_logotype.png&ehk=Ya5ZQkkpV3rYH47HN9szTQIGNfhSUD5XF9CKYLZtQzc%3d&risl=&pid=ImgRaw&r=0">
-  <img width="30" src="https://th.bing.com/th/id/R.df34fe4661bed203d9f7832f82a074d3?rik=bWfnruY3UQXt9Q&pid=ImgRaw&r=0">
-  <img width="30" src="https://logos-world.net/wp-content/uploads/2021/02/App-Store-Logo-700x394.png">
-  <img width="30" src="https://cdn.pixabay.com/photo/2019/10/16/09/05/utorrent-4553905_1280.png">
+<p align="center">Steam| Google Play Store | App Store | U Torrent</p>
+<div align="center">
+  <img width="60px" alt="steam-logo" src="https://th.bing.com/th/id/R.93a4a65e7693d8b1739c9fb203089801?rik=0SXpP4ELODKVDw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f05%2fSteam_icon_logo_logotype.png&ehk=Ya5ZQkkpV3rYH47HN9szTQIGNfhSUD5XF9CKYLZtQzc%3d&risl=&pid=ImgRaw&r=0">
+  <img width="60px" alt="play-store-logo" src="https://th.bing.com/th/id/R.df34fe4661bed203d9f7832f82a074d3?rik=bWfnruY3UQXt9Q&pid=ImgRaw&r=0">
+  <img width="80px" alt="app-store-logo" src="https://logos-world.net/wp-content/uploads/2021/02/App-Store-Logo-700x394.png">
+  <img width="60px" alt="utorrent"src="https://cdn.pixabay.com/photo/2019/10/16/09/05/utorrent-4553905_1280.png">
 </div>
 
-Steam| Google Play Store | App Store | U Torrent
 
 ## Limite de jogadores: 
 * 10 por partida.
