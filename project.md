@@ -1,5 +1,5 @@
 
-# Sobre o jogo
+# Sobre o jogo [^1]
 <div align="center">
   <img width="50%" src="https://th.bing.com/th/id/OIP.wh8SF8znvA_PN6rUHWMMsQHaEK?rs=1&pid=ImgDetMain">
 </div>
@@ -65,7 +65,7 @@ Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadore
 
 
 ## Tarefas 
-site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
+
 
 ### 1. Skeld: 
 - Acabar com os Asteroides ---> Armas;
@@ -241,3 +241,6 @@ Com isolamento social, as pessoas têm mais tempo para jogar.A pandemia revelou 
 ### A carona do Discord
 A plataforma de conversas e chat famosa entre gamers viu uma expansão grande com a popularidade do jogo. Isso porque o Among Us exige um nível alto de interação.O título até traz um chat para os momentos de decisão para descobrir quem é o impostor, mas grande parte dos usuários prefere usar chat por voz para isso.Um estudo do Apptopia revelou que o Discord caiu no gosto dos jogadores. A curva de novos downloads do serviço sobe em uma proporção muito parecida com a do Among Us. Enquanto a média de downloads do Discord se mantinha na casa dos 200 mil diários, este número subiu para 400 mil no início da pandemia e explodiu para a casa dos 800 mil diários.
 Os dados de audiência da Twitch mostram que, assim como Fall Guys, Among Us já está perdendo espaço em audiência e deve ser substituído por outro título do momento para os produtores de conteúdo. Contudo, isso já foi suficiente para garantir aos desenvolvedores o montante necessário para continuarem seguindo na produção de seus jogos. Among Us 2 também já está em desenvolvimento. Contudo, os desenvolvedores pararam os trabalhos na continuação e não há uma nova data para o novo game chegar aos usuários.
+
+
+[^1](site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/)
