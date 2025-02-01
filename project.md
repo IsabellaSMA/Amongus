@@ -24,7 +24,10 @@ Marcus Bromander concebeu a ideia originalmente, baseando-se em Detetive, chamad
 
 ## Mapas:
 
-### 1. Skeld:
+### 1. Skeld: <br>
+<div align=center>
+  <img src="https://th.bing.com/th/id/OIP.pIUra3o0AqSExZwochVu3QHaEg?w=270&h=180&c=7&r=0&o=5&pid=1.7">
+</div>
 
 Skeld, é o primeiro mapa de Among Us ambientado em uma nave espacial no espaço sideral. Ele é selecionado automaticamente ao abrir o jogo pela primeira vez.
 Locais: Cafeteria; Navegações, Comunicações, Administração, Elétrica, Segurança, Reator..
