@@ -3,8 +3,9 @@
 <div align="center">
   <img width="50%" src="https://th.bing.com/th/id/OIP.wh8SF8znvA_PN6rUHWMMsQHaEK?rs=1&pid=ImgDetMain">
 </div>
-[^1]
-Among Us é um jogo de mistério de assassinato de ficção científica que segue um grupo de Crewmates que têm Impostores entre eles. O objetivo do Impostor é sabotar seu navio e matar a todos. Os Crewmates precisam completar tarefas e votar no Impostor.
+
+Among Us é um jogo de mistério de assassinato de ficção científica que segue um grupo de Crewmates que têm Impostores entre eles. O objetivo do Impostor é sabotar seu navio e matar a todos. Os Crewmates precisam completar tarefas e votar no Impostor[^1] .
+
 
 ## Criador do jogo 
 Marcus Bromander concebeu a ideia originalmente, baseando-se em Detetive, chamado de Mafia em inglês, ou Werewolf, um jogo social de dedução onde cada pessoa recebe uma função e precisa executar tarefas para vencer.
@@ -18,6 +19,7 @@ Marcus Bromander concebeu a ideia originalmente, baseando-se em Detetive, chamad
   <img width="80px" alt="app-store-logo" src="https://logos-world.net/wp-content/uploads/2021/02/App-Store-Logo-700x394.png">
   <img width="60px" alt="utorrent"src="https://cdn.pixabay.com/photo/2019/10/16/09/05/utorrent-4553905_1280.png">
 </div>
+
 
 
 ## Limite de jogadores: 
@@ -243,5 +245,4 @@ Com isolamento social, as pessoas têm mais tempo para jogar.A pandemia revelou 
 A plataforma de conversas e chat famosa entre gamers viu uma expansão grande com a popularidade do jogo. Isso porque o Among Us exige um nível alto de interação.O título até traz um chat para os momentos de decisão para descobrir quem é o impostor, mas grande parte dos usuários prefere usar chat por voz para isso.Um estudo do Apptopia revelou que o Discord caiu no gosto dos jogadores. A curva de novos downloads do serviço sobe em uma proporção muito parecida com a do Among Us. Enquanto a média de downloads do Discord se mantinha na casa dos 200 mil diários, este número subiu para 400 mil no início da pandemia e explodiu para a casa dos 800 mil diários.
 Os dados de audiência da Twitch mostram que, assim como Fall Guys, Among Us já está perdendo espaço em audiência e deve ser substituído por outro título do momento para os produtores de conteúdo. Contudo, isso já foi suficiente para garantir aos desenvolvedores o montante necessário para continuarem seguindo na produção de seus jogos. Among Us 2 também já está em desenvolvimento. Contudo, os desenvolvedores pararam os trabalhos na continuação e não há uma nova data para o novo game chegar aos usuários.
 
-
-[^1](Site_de_referencia: "https://tecnoblog.net/responde/todas-as-missoes-de-among-us/")
+[^1]:  site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
