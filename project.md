@@ -1,8 +1,9 @@
 
-# Sobre o jogo [^1]
+# Sobre o jogo
 <div align="center">
   <img width="50%" src="https://th.bing.com/th/id/OIP.wh8SF8znvA_PN6rUHWMMsQHaEK?rs=1&pid=ImgDetMain">
 </div>
+[^1]
 Among Us é um jogo de mistério de assassinato de ficção científica que segue um grupo de Crewmates que têm Impostores entre eles. O objetivo do Impostor é sabotar seu navio e matar a todos. Os Crewmates precisam completar tarefas e votar no Impostor.
 
 ## Criador do jogo 
@@ -243,4 +244,4 @@ A plataforma de conversas e chat famosa entre gamers viu uma expansão grande co
 Os dados de audiência da Twitch mostram que, assim como Fall Guys, Among Us já está perdendo espaço em audiência e deve ser substituído por outro título do momento para os produtores de conteúdo. Contudo, isso já foi suficiente para garantir aos desenvolvedores o montante necessário para continuarem seguindo na produção de seus jogos. Among Us 2 também já está em desenvolvimento. Contudo, os desenvolvedores pararam os trabalhos na continuação e não há uma nova data para o novo game chegar aos usuários.
 
 
-[^1](site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/)
+[^1](Site_de_referencia: "https://tecnoblog.net/responde/todas-as-missoes-de-among-us/")
