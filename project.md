@@ -183,7 +183,7 @@ Chapéus - O jogo possui mais de 200 chapéis, dentre eles estão:
 
 
 
-## Profissões (Roles) -> 28/01
+## Profissões (Roles) 
  ### Impostor: 
 - Matar os outrso tripulantes
 - Se misturar com a tripulação
@@ -227,8 +227,7 @@ Após dois minutos (configuráveis), começa o Esconderijo Final. Nesta última 
 - O Impostor tem um tempo de espera para matar de 1 segundo.
 - O Impostor pode usar a habilidade Procurar no último minuto ou depois de matar um número suficiente de Tripulantes, como mencionado anteriormente.
 
-## Sucesso do jogo na Pandemia:
-por: https://canaltech.com.br/games/among-us-sucesso-como-explicar-172754/
+## Sucesso do jogo na Pandemia[^2]:
 
 Com isolamento social, as pessoas têm mais tempo para jogar.A pandemia revelou uma necessidade de contato social à distância, popularizando também ferramentas  de comunicação por texto, voz e vídeo. Among Us oferece esta aproximação, como uma desculpa a mais para encontrar amigos.
 ### A carona do Discord
@@ -236,3 +235,4 @@ A plataforma de conversas e chat famosa entre gamers viu uma expansão grande co
 Os dados de audiência da Twitch mostram que, assim como Fall Guys, Among Us já está perdendo espaço em audiência e deve ser substituído por outro título do momento para os produtores de conteúdo. Contudo, isso já foi suficiente para garantir aos desenvolvedores o montante necessário para continuarem seguindo na produção de seus jogos. Among Us 2 também já está em desenvolvimento. Contudo, os desenvolvedores pararam os trabalhos na continuação e não há uma nova data para o novo game chegar aos usuários.
 
 [^1]:  site de ref: https://tecnoblog.net/responde/todas-as-missoes-de-among-us/
+[^2]: por: https://canaltech.com.br/games/among-us-sucesso-como-explicar-172754/
