@@ -100,7 +100,7 @@ Mapa e Jogabilidade: É o segundo maior mapa do jogo, permitindo que os jogadore
 - Reativar Escudos --> Administração;	
 - Regar Plantas	-->	Armazenamento (1ª Etapa) / Estufa (2ª Etapa);
 
-  ### 3. Polus --> 22/01
+  ### 3. Polus 
 - Alinhar Telescópios --> Laboratório;
 - Acabar com os Asteiroides --> Armas;
 - Arrumar Fiação --> Elétrica, O2, Laboratório;
@@ -204,7 +204,7 @@ Chapéus - O jogo possui mais de 200 chapéis, dentre eles estão:
 ### Engenheiro
 - Os jogadores com este papel recebem a capacidade de se esconder ou viajar através de aberturas e não podem ser mortos enquanto no respiradouro como resultado, eles podem ficar no respiradouro por 5 segundos e para recuperar a capacidade de ventilar, o engenheiro deve completar uma tarefa ou esperar por 20 segundos, se completaram todas as suas tarefas. Engenheiro não pode desabafar durante sabotagem de comms.  
 
-### Anjo da Guarda ->29/01 
+### Anjo da Guarda 
 - Os jogadores com esse papel recebem a capacidade de proteger os jogadores vivos de serem mortos, mas apenas se eles forem companheiros de tripulação, cientistas ou engenheiros, tiverem morrido e o Anjo da Guarda estiver habilitado.
 
 ### Metamorfo
