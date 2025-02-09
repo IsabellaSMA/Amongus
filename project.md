@@ -1,5 +1,5 @@
 
-# Sobre o jogo
+<h1 align=center> Sobre o jogo</h1>
 <div align="center">
   <img width="50%" src="https://th.bing.com/th/id/OIP.wh8SF8znvA_PN6rUHWMMsQHaEK?rs=1&pid=ImgDetMain">
 </div>
