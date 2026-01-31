@@ -72,7 +72,9 @@ E fico satisfeita ao saber que mesmo que os anos passem, é possivel rever esta 
 Com a alegria e satisfação de ter concluído este projeto, decidi fazer o mesmo no ano de 2025 da mesma forma feita como antes porém apenas um pequeno detalhe foi adicionado: ao invés de focar apenas no entretenimento (falar sobre o jogo novamente), resolvi aprender enquanto me divirto e com isso, estou estudando conceitos de programação que possuo dificuldade/ainda sou iniciante. Dessa forma, ao longo que atualizo e crio meus repositórios com novos aprendizados, meus commits estarão fazendo a imagem do personagem de Among Us 
 
 <img src="amongus2025.png" alt="Amongus 2025">
-----------
+
+#
+
 2026
 
-4
+
