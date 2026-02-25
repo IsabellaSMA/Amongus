@@ -77,4 +77,4 @@ Com a alegria e satisfação de ter concluído este projeto, decidi fazer o mesm
 
 2026
 
-
+No ano de 2026, mudanças naturais na rotina comprometeram o projeto, porém com criatividade, olhei por um outro ângulo e resolvi criar a imagem com apenas o contorno 
