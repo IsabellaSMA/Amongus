@@ -79,5 +79,5 @@ Com a alegria e satisfação de ter concluído este projeto, decidi fazer o mesm
 
 No ano de 2026, mudanças naturais na rotina comprometeram o projeto, porém com criatividade, olhei por um outro ângulo e resolvi criar a imagem com apenas o contorno 
 
-0123
+01234
 
